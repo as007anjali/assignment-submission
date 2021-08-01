@@ -1,0 +1,33 @@
+body{
+    background-image: url(./image.jpg);
+
+}
+    
+
+.para{
+    color:rgb(8, 10, 12);
+    background-color: rgba(193, 198, 201, 0.39);
+    border: 1px solid rgb(8, 10, 12);
+    padding: 20px;
+    margin-top: 50px;
+    width: 25%;
+    text-align:center;
+}
+.para2{
+    color:rgb(8, 10, 12);
+    background-color: rgba(193, 198, 201, 0.39);
+    border: 1px solid rgb(8, 10, 12);
+    padding: 20px;
+    margin-top: 1px;
+    width: 20%;
+    text-align:center;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:black;
+}
+a:hover{
+    color:red;
+}
